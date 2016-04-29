@@ -1,3 +1,4 @@
+```
 ### awesome-python3-webapp
 
 ---
@@ -7,22 +8,22 @@
 目录结构:
 
 awesome-python3-webapp/  <-- 根目录
-I
+|
 +- backup/               <-- 备份目录
-I
+|
 +- conf/                 <-- 配置文件
-I
+|
 +- dist/                 <-- 打包目录
-I
+|
 +- www/                  <-- Web目录, 存放.py文件
-I  I
-I  +- static/            <-- 存放静态文件
-I  I
-I  +- templates/         <-- 存放模板文件
-I
+|   |
+|   +- static/            <-- 存放静态文件
+|   |
+|   +- templates/         <-- 存放模板文件
+|
 +- ios/                  <-- 存放ios app工程
-I
+|
 +- LICENSE               <-- 代码LICENSE
-I
+|
 +- README.md             <-- 项目的一个简短介绍
-
+```
