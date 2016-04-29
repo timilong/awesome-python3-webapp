@@ -1,4 +1,3 @@
-```
 ### awesome-python3-webapp
 
 ---
@@ -7,6 +6,7 @@
 
 目录结构:
 
+```
 awesome-python3-webapp/  <-- 根目录
 <<<<<<< HEAD
 |
@@ -28,4 +28,3 @@ awesome-python3-webapp/  <-- 根目录
 |
 +- README.md             <-- 项目的一个简短介绍
 ```
->>>>>> 378223df2e5afbcbf0ed09cd3de10e4b00859adc
